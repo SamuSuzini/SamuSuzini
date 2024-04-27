@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .centered {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 100%; /* Ajusta a largura máxima da imagem */
-      height: auto; /* Mantém a proporção da altura em relação à largura */
-    }
-  </style>
-</head>
-<body>
-
 <h2 align="left">Olá! Meu nome é Samuel Suzini e sou Consultor Especialista em Finanças e Automação de Processos | Análise de Dados | Power BI | Excel | Python.</h2>
 
 <div align="left">
