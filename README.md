@@ -1,6 +1,19 @@
-<h2 align="left">Olá! Meu nome é Samuel Suzini e sou Consultor Especialista em Finanças e Automação de Processos | Análise de Dados | Power BI | Excel | Python.</h2>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .centered {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%; /* Ajusta a largura máxima da imagem */
+      height: auto; /* Mantém a proporção da altura em relação à largura */
+    }
+  </style>
+</head>
+<body>
 
-###
+<h2 align="left">Olá! Meu nome é Samuel Suzini e sou Consultor Especialista em Finanças e Automação de Processos | Análise de Dados | Power BI | Excel | Python.</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/samu.suzini/" target="_blank">
@@ -17,8 +30,6 @@
   </a>
 </div>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -31,16 +42,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<img align="right" height="300" src="https://i.ibb.co/QkjYF2L/CONSULTORIA-DESCOMPLICADA-1.png"  />
-
-###
+<div style="text-align:center;">
+  <img class="centered" src="https://i.ibb.co/QkjYF2L/CONSULTORIA-DESCOMPLICADA-1.png"  />
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SamuSuzini/SamuSuzini/main/snake.svg" alt="Snake animation" />
 
-###
+</body>
+</html>
