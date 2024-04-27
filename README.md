@@ -37,10 +37,8 @@
 
 
 <div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SamuSuzini/SamuSuzini/main/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/SamuSuzini/SamuSuzini/main/snake.svg" alt="Snake animation" style="max-width: 100vw; height: auto;" />
 </div>
-
-
 
 </body>
 </html>
