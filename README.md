@@ -6,7 +6,7 @@
 
 <p>📊 <strong>Áreas:</strong> Business Intelligence, Analytics, Consultoria Financeira</p>
 
-<p>🔗 <strong>Portfólio:</strong> <a href="http://tinyurl.com/Suzini">Projetos em Power BI:</a>explore dashboards interativos e insights poderosos!</p>
+<p>🔗 <strong>Portfólio:</strong> <a href="http://tinyurl.com/Suzini">Projetos em Power BI:</a> explore dashboards interativos e insights poderosos!</p>
 
 
 <div align="left">
