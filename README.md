@@ -2,7 +2,7 @@
 
 <p>💼 <strong>Especialista em:</strong> Finanças, Automação de Processos, Análise de Dados</p>
 
-<p>🔧 <strong>Ferramentas:</strong> Python, Power BI, Excel, SQL</p>
+<p>🛠️ <strong>Principais Ferramentas:</strong> Excel, Python, Power BI (com DAX Avançado), SQL, VBA</p>
 
 <p>📊 <strong>Áreas:</strong> Business Intelligence, Analytics, Consultoria Financeira</p>
 
