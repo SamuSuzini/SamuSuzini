@@ -1,12 +1,14 @@
-<h2 align="left">Olá! Meu nome é Samuel Suzini e sou Consultor Especialista em Finanças e Automação de Processos | Análise de Dados | Power BI | Excel | Python.</h2>
-
-<p>👋 Olá! Sou Samuel Suzini.</p>
+<h2 align="left">👋 Olá! Sou Samuel Suzini.</h2>
 
 <p>💼 <strong>Especialista em:</strong> Finanças, Automação de Processos, Análise de Dados</p>
 
 <p>🔧 <strong>Ferramentas:</strong> Python, Power BI, Excel, SQL</p>
 
 <p>📊 <strong>Áreas:</strong> Business Intelligence, Analytics, Consultoria Financeira</p>
+
+<p>🔗 <strong>Portfólio:</strong> <a href="http://tinyurl.com/Suzini">Projetos em Power BI</a></p>
+
+<p>👁️ <strong>Visão do Portfólio:</strong> Explore dashboards interativos e insights poderosos em <a href="http://tinyurl.com/Suzini">meus projetos Power BI</a></p>
 
 <div align="left">
   <a href="https://www.instagram.com/samu.suzini/" target="_blank">
