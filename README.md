@@ -6,9 +6,8 @@
 
 <p>📊 <strong>Áreas:</strong> Business Intelligence, Analytics, Consultoria Financeira</p>
 
-<p>🔗 <strong>Portfólio:</strong> <a href="http://tinyurl.com/Suzini">Projetos em Power BI</a></p>
+<p>🔗 <strong>Portfólio:</strong> <a href="http://tinyurl.com/Suzini">Projetos em Power BI:</a>explore dashboards interativos e insights poderosos!</p>
 
-<p>👁️ <strong>Visão do Portfólio:</strong> Explore dashboards interativos e insights poderosos em <a href="http://tinyurl.com/Suzini">meus projetos Power BI</a></p>
 
 <div align="left">
   <a href="https://www.instagram.com/samu.suzini/" target="_blank">
