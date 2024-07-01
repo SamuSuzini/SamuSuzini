@@ -49,13 +49,6 @@
 </div>
 
 
-<br clear="both">
-
-<div style="text-align:center;">
-  <img class="centered" src="https://i.ibb.co/QkjYF2L/CONSULTORIA-DESCOMPLICADA-1.png"  />
-</div>
-
-<br clear="both">
 
 
 </body>
