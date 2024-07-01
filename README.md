@@ -1,6 +1,6 @@
 <h2 align="left">👋 Olá! Sou Samuel Suzini.</h2>
 
-<p>💼 <strong>Especialista em:</strong> Finanças, Automação de Processos, Análise de Dados</p>
+<p>💼 <strong>Especialista em:</strong> Análise de Dados, Finanças e  Automação de Processos! </p>
 
 <p>🛠️ <strong>Principais Ferramentas:</strong> Excel, Python, Power BI (com DAX Avançado), SQL, VBA</p>
 
