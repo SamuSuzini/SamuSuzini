@@ -58,9 +58,5 @@
 <br clear="both">
 
 
-<div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SamuSuzini/SamuSuzini/main/snake.svg" alt="Snake animation" style="width: 100%; height: auto; max-width: 100%;" />
-</div>
-
 </body>
 </html>
